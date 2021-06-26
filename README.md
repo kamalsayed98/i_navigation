@@ -174,4 +174,4 @@ This package created and maintained by [Kamal Sayed](https://github.com/kamalsay
 
 # Bugs or Requests
 
-If you encounter any problems feel free to open an [issue](https://github.com//jonbhanson/flutter_native_splash/issues/new?template=bug_report.md). If you feel the library is missing a feature, please raise a [ticket](https://github.com//jonbhanson/flutter_native_splash/issues/new?template=feature_request.md). Pull requests are also welcome.
+If you encounter any problems feel free to open an [issue](https://github.com/kamalsayed98/i_navigation/issues/new?template=bug_report.md). If you feel the library is missing a feature, please raise a [ticket](https://github.com/kamalsayed98/i_navigation/issues/new?template=feature_request.md). Pull requests are also welcome.

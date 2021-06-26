@@ -1,7 +1,7 @@
 name: i_navigation
-description: A Flutter package that will help developers to navigate throw the app and authenticate their routes.
+description: A Flutter package that will help developers to navigate through the app and authenticate their routes.
 version: 1.0.0
-# author: Kamal Sayed <kamal.sayed16@gmail.com>
+author: Kamal Sayed <kamal.sayed16@gmail.com>
 homepage: https://github.com/kamalsayed98/i_navigation
 
 environment:
